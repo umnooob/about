@@ -8,20 +8,18 @@ url: https://hacked-jekyll.netlify.app
 # this information is shown on the homepage, all fields are optional and
 # can be declared either as a single string or as a string array/hash
 json:
-  name: Place Holder
+  name: Zexuan Deng
   description:
     - Hello!
-    - This tiny website
+    - This is DZX
     - Looks like json
+    - Funny, isn't it?
   cv: assets/cv.pdf
   address:
-    - University of Jekyll
-    - Department of Themes
-    - 123 Main St, Anytown, USA
+    - NanJing University
+    - Computer Science
   contact:
-    office: Foobar Hall 1.23
-    phone: +1 234 567 890
-    email: username@domain.com
+    email: dzx60090@gmail.com
   demo: https://hacked-jekyll.netlify.app
   source: https://github.com/piazzai/hacked-jekyll
   profiles:
